@@ -1,3 +1,2 @@
-# hola-mundo-en-java
-el tipico homonimo
-rama creada
+# PEQUEÑAS UTILIDADES JAVA.
+Aqui puedes encontrar alguna utilidad que te puede ayudar a la hora de  hacerte un log particular para depurar, una serializacion y des serializacion de objetos, el crear tus propias excepciones y evitarte la declaracion en los metodos (esto no significa que no tengan un tratamiento, al reves, tendrás que estar mas atento para recuperar las que sean solucionables.), tambien hay una utilidad para generar un número aleatorio, ....
