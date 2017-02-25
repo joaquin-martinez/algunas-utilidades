@@ -1,0 +1,9 @@
+100 = No existe el fichero o el directorio para lectura.
+110 = No existe el fichero o el directorio para escritura.
+101 = Error al leer el archivo.
+111 = Error al escribir el fichero.
+10 = Error en el proceso de lectura en fichero.
+11 = Error en el proceso de escritura en fichero.
+200 = Error con los ficheros de propiedades.
+300 = Error en el fichero log.
+400 = Error al convertir cadena a entero.
