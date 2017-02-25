@@ -40,13 +40,7 @@ public class AplicacionExcepcion extends RuntimeException implements interfaceCo
 		return codigo;
 	}
 	
-	
-	
-	public String toString(){
 
-		return "No se ha encontrado el archivo";
-	}
-	
 	
 	public Throwable getCausa() {
 		
